@@ -67,3 +67,5 @@ Before beginning to tackle the project determine how your group will communicate
 
 - **What project management tool will be used?**
   - We’ll be using Trello for project management.
+ 
+![Whiteboard](Whiteboarding.jpg)
